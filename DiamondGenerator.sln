@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiamondGenerator", "DiamondGenerator\DiamondGenerator.csproj", "{4A328289-4E57-419C-A6E5-9A8A52261E06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiamondGenerator.Tests", "DiamondGenerator.Tests\DiamondGenerator.Tests.csproj", "{02DA49F8-AFB7-449E-90FD-15328FB35DB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A328289-4E57-419C-A6E5-9A8A52261E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A328289-4E57-419C-A6E5-9A8A52261E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A328289-4E57-419C-A6E5-9A8A52261E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A328289-4E57-419C-A6E5-9A8A52261E06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02DA49F8-AFB7-449E-90FD-15328FB35DB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02DA49F8-AFB7-449E-90FD-15328FB35DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02DA49F8-AFB7-449E-90FD-15328FB35DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02DA49F8-AFB7-449E-90FD-15328FB35DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE62BBB0-47D8-4E61-9B16-6BCA45310D0B}
+	EndGlobalSection
+EndGlobal
